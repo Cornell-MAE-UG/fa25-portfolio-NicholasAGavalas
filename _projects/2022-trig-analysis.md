@@ -3,7 +3,7 @@ layout: project
 title: NGAML dashboard redesign
 description: Design for manufacturing, Ergonomics
 technologies: [Solidworks, Waterjetting]
-image: /assets/images/meetthengaml.jpg
+image: /assets/images/2025-07-23 152729.png
 ---
 
 
