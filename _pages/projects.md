@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Nicholas Gavalas - Portfolio
+title: Nicholas Gavalas - Portfolio
 permalink: /projects/
 ---
 
