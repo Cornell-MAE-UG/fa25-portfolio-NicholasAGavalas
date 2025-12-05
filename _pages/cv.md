@@ -8,38 +8,39 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [nag72@cornell.edu](mailto:nag72@cornell.edu) | | | **Phone:** +1 (929) 434-4033
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Hi, I’m Nicholas, a Mechanical Engineering student at Cornell University. When I’m not in class, you can usually find me in the autolab working on the brakes system for Cornell Racing. I spend most of my time designing, analyzing, and manufacturing components that make the car lighter, faster, and more reliable.
+I’ve had the chance to get a ton of hands-on engineering experience through school and internships. Last summer, I worked at Raglan, where I designed parts for their ongoing projects, everything from battery enclosures to wiring harnesses and shop hardware. Before that, at GAIA and ECS, I worked on projects that combined sustainability and engineering, like developing wind turbine systems and bicycle instrumentation for use in rural communities.
+
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **The Bronx High School Of Science**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
+Technical: MATLAB, FEA, SolidWorks, ANSYS , Autodesk Inventor, Autodesk Vault Machining, Fusion, Excel, Rapid
+Prototyping, CNC machining (CAM), Adobe Illustrator, InDesign, Java, Python, Soldering & Electrical Design, Kicad, Harness
+design, RCA, Robotics Engineering, and control systems; Language: English (native), Greek (fluent); Spanish (basic) 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Raglan NGAML**:  
+  *Dashboard and control systems for an MHU-84*  
+  - Design for assembly
+  - Harnessing
 
 - **[Project Title]**:  
   *[Short Description]*  
@@ -49,22 +50,18 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
+- **Raglan - Intern**  
+  [Summer 2025]  
   - Responsibility 1  
   - Responsibility 2  
 
----
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Racing FSAE  
+- Volunteer for Bright minds hour of science  
 
 ---
 
