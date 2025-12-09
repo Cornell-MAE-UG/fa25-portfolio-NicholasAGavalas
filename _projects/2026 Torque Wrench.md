@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: MAE 3270 Strain gague torque wrench
+description: Designed a Torque wrench for class given certain paramaters 
+technologies: [Matlab, Solidworks, Ansys]
 image: /assets/images/spaceship-design.jpg
 ---
 
