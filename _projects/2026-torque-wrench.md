@@ -5,7 +5,13 @@ description: Designed a Torque wrench for class given certain paramaters
 technologies: [Matlab, Solidworks, Ansys]
 image: /assets/images/wrenchcad.png
 ---
-![Strain Gague Wrench](/assets/images/Torque-wrench-drawing.jpg)
+
+<img 
+  src="{{ '/assets/images/Torque-wrench-drawing.jpg)' | relative_url }}"
+  alt="Wrench drawing"
+  style="max-width: 40%; height: auto;"
+>
+
 For MAE 3270 We were instructed to design a strain gague torque wrench This is my design, Its slightly slimmer then the baseline case, has a large filet around the driver and also is made out of a qunched and tempered 4340 steel for its greater ductitility over M42 Tool steel.
 
 Here is a snippet from the matlab code of the material properties
