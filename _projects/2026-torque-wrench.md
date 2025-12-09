@@ -33,19 +33,32 @@ To accurately model the force through the torque wrench we use a zero displaceme
 >
 After that I was able to mesh and solve the model. 
 Looking at the stresses we get a very similar computed stress to the 
-<p>
-![Wrenchstress]({{ "/assets/images/wrenchstress.png" | relative_url }}){: .inline-image-l}
-<p>
+
+
+<img 
+  src="{{ '/assets/images/wrenchstress.png' | relative_url }}"
+  alt="Wrench stress"
+  style="max-width: 40%; height: auto;"
+>
 Zooming in we see our peak stress to be at the 
-<p>
-![Zoomed in Wrenchstress]({{ "/assets/images/zoomedwrenchstress.png" | relative_url }}){: .inline-image-l}
-<p>
+<img 
+  src="{{ '/assets/images/zoomedwrenchstress.png' | relative_url }}"
+  alt="Wrench stress"
+  style="max-width: 40%; height: auto;"
+>
 We can also look at the strain at our strain gague point which nearly exactly matches our calculated stress
+<img 
+  src="{{ '/assets/images/wrenchstrain.png' | relative_url }}"
+  alt="Wrench strain"
+  style="max-width: 40%; height: auto;"
+>
 <p>
-![Wrenchstrain]({{ "/assets/images/wrenchstrain.png" | relative_url }}){: .inline-image-l}
-<p>
+
 And also we can look at our total deformation
 <p>
-![Wrenchstrain]({{ "/assets/images/wrenchdeformation.png" | relative_url }}){: .inline-image-l}
-<p>
+<img 
+  src="{{ '/assets/images/wrenchdeformation.png' | relative_url }}"
+  alt="Wrench deformation"
+  style="max-width: 40%; height: auto;"
+><p>
 Similar to the base case the total deformation is higher because we didn't take into account the collapse in beam theory at the very tip of the drive
