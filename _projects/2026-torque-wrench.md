@@ -21,6 +21,7 @@ The one con of 4340 is it is harder to machine then for example 4130
 To accurately model the force through the torque wrench we use a zero displacement condition on the driver and we then apply a load to the end of the handle to mimmic 60 in-lbs on the 
 <p>
 ![Wrenchsetup]({{ "/assets/images/wrenchsetup.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+<img src="{{ '/assets/images/wrenchsetup.png' | relative_url }}" alt="Wrench setup">
 
 After that I was able to mesh and solve the model. 
 Looking at the stresses we get a very similar computed stress to the 
