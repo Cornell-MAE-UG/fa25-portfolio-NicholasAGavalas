@@ -23,7 +23,9 @@ To accurately model the force through the torque wrench we use a zero displaceme
 After that I was able to mesh and solve the model. 
 Looking at the stresses we get a very similar computed stress to the 
 ![Wrench stress](/assets/images/wrenchstress.png)
+![Wrench_stress]({{ "/assets/images/wrenchstress.png" | relative_url }}){: .inline-image-l}
 Zooming in we see our peak stress to be at the 
+
 ![Zoomed in Wrench stress](/assets/images/zoomedwrenchstress.png)
 We can also look at the strain at our strain gague point which nearly exactly matches our calculated stress
 ![Zoomed in Wrench stress](/assets/images/wrenchstrain.png)
