@@ -16,3 +16,19 @@ KIC = 82.8e3;         % psi*(in)^1/2
 sfatigue = 78.1e3;   % psi
 name = "4340 quenched and tempered";
 
+The one con of 4340 is it is harder to machine then for example 4130
+
+To accurately model the force through the torque wrench we use a zero displacement condition on the driver and we then apply a load to the end of the handle to mimmic 60 in-lbs on the 
+
+![Strain Gague Setup](/assets/images/wrenchsetup.png)
+
+After that I was able to mesh and solve the model. 
+Looking at the stresses we get a very similar computed stress to the 
+![Wrench stress](/assets/images/wrenchstress.png)
+Zooming in we see our peak stress to be at the 
+![Zoomed in Wrench stress](/assets/images/zoomedwrenchstress.png)
+We can also look at the strain at our strain gague point which nearly exactly matches our calculated stress
+![Zoomed in Wrench stress](/assets/images/wrenchstrain.png)
+And also we can look at our total deformation
+![Zoomed in Wrench stress](/assets/images/wrenchdeformation.png)
+Similar to the base case the total deformation is higher because we didn't take into account the collapse in beam theory at the very tip of the drive
