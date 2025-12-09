@@ -20,9 +20,12 @@ The one con of 4340 is it is harder to machine then for example 4130
 
 To accurately model the force through the torque wrench we use a zero displacement condition on the driver and we then apply a load to the end of the handle to mimmic 60 in-lbs on the 
 
+<p>
+  <img src="{{ '/assets/images/radio-machine.jpg' | relative_url }}">
+</p>
 After that I was able to mesh and solve the model. 
 Looking at the stresses we get a very similar computed stress to the 
-![Wrench stress](/assets/images/wrenchstress.png)
+![Wrench stress](/assets/images/wrenchstress.png | relative_url)
 ![Wrench_stress]({{ "/assets/images/wrenchstress.png" | relative_url }}){: .inline-image-l}
 Zooming in we see our peak stress to be at the 
 
