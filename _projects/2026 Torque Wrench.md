@@ -3,7 +3,7 @@ layout: project
 title: MAE 3270 Strain gague torque wrench
 description: Designed a Torque wrench for class given certain paramaters 
 technologies: [Matlab, Solidworks, Ansys]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/wrenchcad.png
 ---
 ![Strain Gague Wrench](Torque-wrench-drawing.jpg)
 For MAE 3270 We were instructed to design a strain gague torque wrench This is my design, Its slightly slimmer then the baseline case, has a large filet around the driver and also is made out of a qunched and tempered 4340 steel for its greater ductitility over M42 Tool steel.
