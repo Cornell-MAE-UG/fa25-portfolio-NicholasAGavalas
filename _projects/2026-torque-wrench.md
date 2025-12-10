@@ -7,10 +7,11 @@ image: /assets/images/wrenchcad.png
 ---
 
 <img 
-  src="{{ '/assets/images/Torque-wrench-drawing.jpg)' | relative_url }}"
-  alt="Wrench drawing"
+  src="{{ '/assets/images/Torque-wrench-drawing.jpg' | relative_url }}"
+  alt="Wrench setup"
   style="max-width: 40%; height: auto;"
 >
+
 
 For MAE 3270 We were instructed to design a strain gague torque wrench This is my design, Its slightly slimmer then the baseline case, has a large filet around the driver and also is made out of a qunched and tempered 4340 steel for its greater ductitility over M42 Tool steel.
 
