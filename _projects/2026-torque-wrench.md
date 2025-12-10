@@ -66,3 +66,7 @@ And also we can look at our total deformation
   style="max-width: 40%; height: auto;"
 ><p>
 Similar to the base case the total deformation is higher because we didn't take into account the collapse in beam theory at the very tip of the drive
+
+
+
+I chose the Micro-Measurements C4A-06-060SLA-350-39P strain gague as it was small half bridge and measured the range of strains I was looking for, price was no object in this consideration.
