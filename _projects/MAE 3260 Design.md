@@ -6,16 +6,18 @@ technologies: [Solidworks, Waterjetting]
 image: assets/images/damper.png
 ---
 
+Mae 3260 Page 1
 <p>
 <img 
-  src="{{ '/assets/images/page1.png)' | relative_url }}"
-  alt="Page 1"
-  style="max-width: 80%; height: auto;"
+  src="{{ '/assets/images/page1.png' | relative_url }}"
+  alt="Page1"
+  style="max-width: 50%; height: auto;"
 >
 
+Mae 3260 Page 2
 <p>
 <img 
-  src="{{ '/assets/images/page2.png)' | relative_url }}"
-  alt="Page 2"
-  style="max-width: 80%; height: auto;"
+  src="{{ '/assets/images/page2.png' | relative_url }}"
+  alt="Page2"
+  style="max-width: 50%; height: auto;"
 >
