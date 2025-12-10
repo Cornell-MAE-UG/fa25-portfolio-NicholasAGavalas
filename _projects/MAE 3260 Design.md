@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3260 dissection 
 description: For mae 3260 we dissection a friction shock
-technologies: [Solidworks, Waterjetting]
+technologies: [Shop tools, Ansys Granta, Rapid prototyping]
 image: assets/images/damper.png
 ---
 
