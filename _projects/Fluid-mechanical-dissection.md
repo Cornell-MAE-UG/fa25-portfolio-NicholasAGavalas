@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Spaceship Design
+title: Fluid Mechanical Dissection
 description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+technologies: [Desmos, FLuid Mechanics]
+image: /assets/images/cycleops-jetfluid-pro-61731-1.jpg
 ---
 
 
