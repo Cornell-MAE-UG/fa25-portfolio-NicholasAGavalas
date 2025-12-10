@@ -6,6 +6,9 @@ technologies: [Matlab, Solidworks, Ansys]
 image: /assets/images/wrenchcad.png
 ---
 
+
+MAE 3270 Final project 
+<p>
 <img 
   src="{{ '/assets/images/Torque-wrench-drawing.jpg' | relative_url }}"
   alt="Wrench drawing"
