@@ -7,12 +7,12 @@ image: assets/images/damper.png
 ---
 <img 
   src="{{ '/assets/images/page1.png)' | relative_url }}"
-  alt="Wrench drawing"
+  alt="Page 1"
   style="max-width: 80%; height: auto;"
 >
 
 <img 
   src="{{ '/assets/images/page2.png)' | relative_url }}"
-  alt="Wrench drawing"
+  alt="Page 2"
   style="max-width: 80%; height: auto;"
 >
