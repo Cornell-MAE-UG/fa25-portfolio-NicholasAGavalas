@@ -9,7 +9,7 @@ image: /assets/images/wrenchcad.png
 <img 
   src="{{ '/assets/images/Torque-wrench-drawing.jpg' | relative_url }}"
   alt="Wrench drawing"
-  style="max-width: 40%; height: auto;"
+  style="max-width: 50%; height: auto;"
 >
 
 
