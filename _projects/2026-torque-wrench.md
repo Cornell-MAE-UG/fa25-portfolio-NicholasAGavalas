@@ -57,7 +57,7 @@ We can also look at the strain at our strain gague point which nearly exactly ma
   style="max-width: 40%; height: auto;"
 >
 <p>
-
+Every 1 * 10^-6 strain corresponds to 1mv so 1336 microstrains corresponds to the 1336 mv
 And also we can look at our total deformation
 <p>
 <img 
