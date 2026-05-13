@@ -1,7 +1,7 @@
 ---
 layout: project
-title: MAE 3270 Strain gague torque wrench
-description: Designed a Torque wrench for class given certain paramaters 
+title: MAE 3780 Sticky bandit
+description: Designed a robot
 technologies: [C++, Wiring, Robot design]
 image: /assets/images/dorks.png
 ---
